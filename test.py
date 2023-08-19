@@ -1,12 +1,6 @@
 import math as math
 import os,sys,errno,configparser,time,warnings
 
-import matplotlib
-import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
-
-from PIL import Image
 import streamlit as st
 
 st.set_page_config(layout="wide")
