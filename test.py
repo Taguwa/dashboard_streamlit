@@ -1,6 +1,5 @@
 import math as math
 import os,sys,errno,configparser,time,warnings
-import tkinter as tk
 
 import matplotlib
 import matplotlib.pyplot as plt
